@@ -21,4 +21,5 @@ var compliments = [
             'Näytät hyvältä!',
             'Vau!',
             'Nam!',
+			'#yolo #swag #taikapeili',
         ];
